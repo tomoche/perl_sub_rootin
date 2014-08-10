@@ -27,7 +27,6 @@ return($formated);
 #######################
 # Space padding
 #######################
-sub pad_(){
 sub pad_s(){
 my $char_len;
 my $pad_val;
